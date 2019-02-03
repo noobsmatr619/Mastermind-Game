@@ -1,0 +1,10 @@
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MasterMInd.deps.json
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MasterMInd.runtimeconfig.json
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MasterMInd.runtimeconfig.dev.json
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MasterMInd.dll
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MasterMInd.pdb
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MasterMInd.csproj.CoreCompileInputs.cache
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MasterMInd.AssemblyInfoInputs.cache
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MasterMInd.AssemblyInfo.cs
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MasterMInd.dll
+c:\users\abrar tajwar\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MasterMInd.pdb
